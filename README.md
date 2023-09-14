@@ -7,7 +7,7 @@
 
 ### 기록
 
-- 2023 / 7.17 ~ 2023 / 8.11 : Silicon Valley Software Technology & AI Extended Program
+- 2023 / 7.17 ~ 2023 / 8.11 : Silicon Valley Software Technology & AI Extended Program / san jose state univ
    - Entrepreneurship Award : Second prize
 
 - 2021 / 11 ~ 2022 / 12 : affctiv 연구실[https://affctiv.ai/]
