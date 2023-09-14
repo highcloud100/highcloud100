@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#### blog
+https://highcloud100.github.io/
+
+#### linkedin
+https://www.linkedin.com/in/highcloud/
+
+
 <!--
 **highcloud100/highcloud100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
