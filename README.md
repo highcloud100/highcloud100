@@ -19,8 +19,8 @@ https://highcloud100.github.io/
 - latex issue
   - 딥러닝 관련 글들 수식이 깨져버렸습니다. 다시 공부해보며 고칠 것 같네요.
 
-- 처음 공부했던 내용
-   -  https://www.notion.so/3d6e2ccf3da440bcaf686540a0fbebb8?pvs=4 
+- 1학년 즈음 공부했던 내용
+   -  [[https://www.notion.so/3d6e2ccf3da440bcaf686540a0fbebb8?pvs=4 ](https://garnet-ink-e12.notion.site/3d6e2ccf3da440bcaf686540a0fbebb8?pvs=4)](https://garnet-ink-e12.notion.site/2021-1-3d40055c54bf432d99ad2a8fe23f7ed8?pvs=4)
 
 ### linkedin
 https://www.linkedin.com/in/highcloud/
