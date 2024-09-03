@@ -7,7 +7,7 @@
 ### Scheduler
 ---
 #### RUNNING / core 3 
-- Introduction to Distributed Systems 
+- db lecture : https://15445.courses.cs.cmu.edu/fall2023/schedule.html 
 - CSE128 concurrency
 - Model checking-Katoen
 
@@ -18,7 +18,6 @@
 > - leet code contest ( satureday 11:30 pm )
 
 #### READY
-- db lecture : https://15445.courses.cs.cmu.edu/fall2023/schedule.html 
 - TLA+ : Introduction to Formal Pragmatic Modeling : https://elliotswart.github.io/pragmaticformalmodeling/
 - Impossibility results : https://muratbuffalo.blogspot.com/2020/06/learning-about-distributed-systems.html
 
