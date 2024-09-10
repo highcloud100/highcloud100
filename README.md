@@ -36,6 +36,9 @@
 - ML
     - RN : https://github.com/alessiodm/drl-zh
     - TinyML and Efficient Deep Learning Computing: https://hanlab.mit.edu/courses/2024-fall-65940
+ 
+- else
+  - https://security.googleblog.com/2023/09/scaling-rust-adoption-through-training.html
 #### BLOCKED 
 - piano & guitar
 
